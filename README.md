@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Akshaya16P/LEETCODE/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/Akshaya16P/LEETCODE/tree/master/0900-reordered-power-of-2) |
 ## Sorting
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshaya16P/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Akshaya16P/LEETCODE/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Akshaya16P/LEETCODE/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
