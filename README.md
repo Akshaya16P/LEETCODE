@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akshaya16P/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Database
+|  |
+| ------- |
+| [1415-students-and-examinations](https://github.com/Akshaya16P/LEETCODE/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
