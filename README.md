@@ -50,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0607-sales-person](https://github.com/Akshaya16P/LEETCODE/tree/master/0607-sales-person) |
 | [1415-students-and-examinations](https://github.com/Akshaya16P/LEETCODE/tree/master/1415-students-and-examinations) |
 <!---LeetCode Topics End-->
