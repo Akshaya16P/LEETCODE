@@ -83,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
+## Array
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
