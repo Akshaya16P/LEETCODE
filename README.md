@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Akshaya16P/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0900-reordered-power-of-2](https://github.com/Akshaya16P/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Akshaya16P/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Math
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0900-reordered-power-of-2](https://github.com/Akshaya16P/LEETCODE/tree/master/0900-reordered-power-of-2) |
 ## Counting
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Akshaya16P/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Akshaya16P/LEETCODE/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
 ## Interactive
 |  |
