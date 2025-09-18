@@ -105,5 +105,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Akshaya16P/LEETCODE/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Akshaya16P/LEETCODE/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
