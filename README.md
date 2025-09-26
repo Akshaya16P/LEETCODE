@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Akshaya16P/LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Akshaya16P/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akshaya16P/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0022-generate-parentheses](https://github.com/Akshaya16P/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Akshaya16P/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [1044-find-common-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/1044-find-common-characters) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshaya16P/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Akshaya16P/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0120-triangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0120-triangle) |
 ## Bit Manipulation
 |  |
@@ -169,5 +171,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Akshaya16P/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
