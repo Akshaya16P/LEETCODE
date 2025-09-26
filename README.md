@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akshaya16P/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshaya16P/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akshaya16P/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Akshaya16P/LEETCODE/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akshaya16P/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Akshaya16P/LEETCODE/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0040-combination-sum-ii) |
