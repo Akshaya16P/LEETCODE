@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Akshaya16P/LEETCODE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Akshaya16P/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Akshaya16P/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Akshaya16P/LEETCODE/tree/master/0048-rotate-image) |
 | [0168-excel-sheet-column-title](https://github.com/Akshaya16P/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Akshaya16P/LEETCODE/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Akshaya16P/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0120-triangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0120-triangle) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Akshaya16P/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
