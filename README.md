@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akshaya16P/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Akshaya16P/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0120-triangle) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bit Manipulation
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akshaya16P/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -244,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Akshaya16P/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
