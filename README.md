@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Akshaya16P/LEETCODE/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Akshaya16P/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0900-reordered-power-of-2](https://github.com/Akshaya16P/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshaya16P/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaya16P/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Akshaya16P/LEETCODE/tree/master/0342-power-of-four) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Recursion
 |  |
