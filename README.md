@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Akshaya16P/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Akshaya16P/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0474-ones-and-zeroes](https://github.com/Akshaya16P/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [1044-find-common-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Akshaya16P/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Akshaya16P/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/Akshaya16P/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Akshaya16P/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0474-ones-and-zeroes](https://github.com/Akshaya16P/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
 | [1044-find-common-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/1044-find-common-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
