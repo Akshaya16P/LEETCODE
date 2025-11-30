@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/1044-find-common-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Akshaya16P/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1590-make-sum-divisible-by-p](https://github.com/Akshaya16P/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [2169-simple-bank-system](https://github.com/Akshaya16P/LEETCODE/tree/master/2169-simple-bank-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshaya16P/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
 | [1044-find-common-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/1044-find-common-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1590-make-sum-divisible-by-p](https://github.com/Akshaya16P/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Akshaya16P/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/Akshaya16P/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Akshaya16P/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Stack
 |  |
