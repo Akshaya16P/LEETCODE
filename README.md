@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaya16P/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
 | [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaya16P/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaya16P/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Sorting
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Akshaya16P/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
