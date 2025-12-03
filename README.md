@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Akshaya16P/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Akshaya16P/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Akshaya16P/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Akshaya16P/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Akshaya16P/LEETCODE/tree/master/0096-unique-binary-search-trees) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshaya16P/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Akshaya16P/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0040-combination-sum-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Akshaya16P/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Akshaya16P/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0045-jump-game-ii) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Akshaya16P/LEETCODE/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
