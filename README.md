@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0900-reordered-power-of-2](https://github.com/Akshaya16P/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [3433-count-mentions-per-user](https://github.com/Akshaya16P/LEETCODE/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/Akshaya16P/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaya16P/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Akshaya16P/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
+| [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
@@ -373,10 +376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
