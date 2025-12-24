@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2054-two-best-non-overlapping-events](https://github.com/Akshaya16P/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Akshaya16P/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3433-count-mentions-per-user](https://github.com/Akshaya16P/LEETCODE/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/Akshaya16P/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Akshaya16P/LEETCODE/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshaya16P/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Akshaya16P/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshaya16P/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3433-count-mentions-per-user](https://github.com/Akshaya16P/LEETCODE/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaya16P/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Akshaya16P/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Akshaya16P/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
