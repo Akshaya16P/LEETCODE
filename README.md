@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaya16P/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Akshaya16P/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Akshaya16P/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Akshaya16P/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshaya16P/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2169-simple-bank-system](https://github.com/Akshaya16P/LEETCODE/tree/master/2169-simple-bank-system) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Akshaya16P/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
 | [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Akshaya16P/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
 ## Interactive
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akshaya16P/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/0840-magic-squares-in-grid) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshaya16P/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
@@ -415,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
 ## Graph
