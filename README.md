@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1044-find-common-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/1044-find-common-characters) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1590-make-sum-divisible-by-p](https://github.com/Akshaya16P/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Akshaya16P/LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Akshaya16P/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akshaya16P/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/0840-magic-squares-in-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshaya16P/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
