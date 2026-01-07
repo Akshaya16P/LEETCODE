@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Akshaya16P/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Akshaya16P/LEETCODE/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Akshaya16P/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Akshaya16P/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Akshaya16P/LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Akshaya16P/LEETCODE/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0120-triangle) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
