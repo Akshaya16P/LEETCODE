@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0756-pyramid-transition-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Akshaya16P/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Akshaya16P/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/1044-find-common-characters) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaya16P/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Akshaya16P/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaya16P/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Akshaya16P/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Array
 |  |
