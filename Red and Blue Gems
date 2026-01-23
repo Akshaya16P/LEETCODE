@@ -1,0 +1,16 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int r,b,p,q;
+	cin>>r>>b>>p>>q;
+	int a=r*p;
+	int i=b*q;
+	if(a>i){
+	    cout<<a;
+	}
+	else{
+	    cout<<i;
+	}
+}
