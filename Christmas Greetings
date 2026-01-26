@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+int main(){
+    int dayInDecember; // Variable define kiya: dayInDecember (December ke din ko store karne ke liye).
+    cin >> dayInDecember; // User se December ke din ka input le rahe hain.
+
+    if(dayInDecember == 25) // Check kar rahe hain agar din 25 hai.
+        cout << "CHRISTMAS" << endl; // Agar din 25 hai, toh "CHRISTMAS" print karenge.
+    else
+        cout << "ORDINARY" << endl; // Agar din 25 nahi hai, toh "ORDINARY" print karenge.
+ 
+    return 0; // Program successfully terminate kar diya.
+}
