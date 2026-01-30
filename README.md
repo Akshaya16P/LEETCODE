@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshaya16P/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Akshaya16P/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshaya16P/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3606-coupon-code-validator](https://github.com/Akshaya16P/LEETCODE/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Akshaya16P/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshaya16P/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Akshaya16P/LEETCODE/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Akshaya16P/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Akshaya16P/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshaya16P/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/2402-meeting-rooms-iii) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Akshaya16P/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshaya16P/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3433-count-mentions-per-user](https://github.com/Akshaya16P/LEETCODE/tree/master/3433-count-mentions-per-user) |
@@ -501,9 +504,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshaya16P/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshaya16P/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
