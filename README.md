@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0474-ones-and-zeroes](https://github.com/Akshaya16P/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Akshaya16P/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
 | [0840-magic-squares-in-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Akshaya16P/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Akshaya16P/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Akshaya16P/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
