@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Akshaya16P/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Akshaya16P/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Akshaya16P/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Akshaya16P/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshaya16P/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Akshaya16P/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Akshaya16P/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Stack
 |  |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Akshaya16P/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Akshaya16P/LEETCODE/tree/master/0053-maximum-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -539,4 +543,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
