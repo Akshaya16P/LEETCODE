@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Akshaya16P/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Akshaya16P/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Akshaya16P/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Akshaya16P/LEETCODE/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Akshaya16P/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Akshaya16P/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0171-excel-sheet-column-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Akshaya16P/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Akshaya16P/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Akshaya16P/LEETCODE/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Akshaya16P/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0474-ones-and-zeroes](https://github.com/Akshaya16P/LEETCODE/tree/master/0474-ones-and-zeroes) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akshaya16P/LEETCODE/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Akshaya16P/LEETCODE/tree/master/0342-power-of-four) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Akshaya16P/LEETCODE/tree/master/0067-add-binary) |
 | [2169-simple-bank-system](https://github.com/Akshaya16P/LEETCODE/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
