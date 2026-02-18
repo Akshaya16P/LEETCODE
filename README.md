@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Akshaya16P/LEETCODE/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Akshaya16P/LEETCODE/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Akshaya16P/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
