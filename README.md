@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/Akshaya16P/LEETCODE/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akshaya16P/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/Akshaya16P/LEETCODE/tree/master/1622-fancy-sequence) |
 | [1925-count-square-sum-triples](https://github.com/Akshaya16P/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshaya16P/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Akshaya16P/LEETCODE/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Akshaya16P/LEETCODE/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/Akshaya16P/LEETCODE/tree/master/2169-simple-bank-system) |
 | [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
 ## Queue
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Akshaya16P/LEETCODE/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
 ## Rolling Hash
 |  |
