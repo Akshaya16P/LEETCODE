@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int x;
+    cin>>x;
+    if(x<15){
+        int res=15-x;
+        cout<<res;
+    }
+    else if(x==15){
+        cout<<0;
+    }
+    else{
+        cout<<-1;
+    }
+}

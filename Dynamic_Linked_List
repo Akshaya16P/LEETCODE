@@ -1,0 +1,69 @@
+#include<iostream>
+using namespace std;
+
+class Node {
+    public:
+        int Data;
+        Node* Next;
+    Node(int value) {
+        Data = value;
+        Next = NULL;
+    }
+};
+
+int main() {
+    int n, value;
+    cout << "Enter number of nodes: ";
+    cin >> n;
+
+    if(n <= 0) {
+        cout << "No nodes to create.";
+        return 0;
+    }
+
+    cout << "Enter value for node1 : ";
+    cin >> value;
+    Node* newNode1 = new Node(value);
+    Node* Temp = newNode1;
+    
+    Node* Head = newNode1;
+
+    for(int i = 2; i <= n; i++) {
+        cout << "Enter value for node " << i<< ": ";
+        cin >> value;
+        Node* newNode = new Node(value);
+        Temp->Next = newNode;
+        Temp = newNode;
+    }
+    Temp=Head;
+    cout<<"Linked list is:";
+    while(Temp != NULL) {
+        cout<<Temp->Data<<" ";
+        Temp = Temp->Next;
+    }
+    cout<<endl;
+    int newValue;
+    cout<<"Enter the value: ";
+    cin>>newValue;
+    int position;
+    cout<<"Enter the position to be inserted: ";
+    cin>>position;
+    int count=1;
+    Temp=Head;
+    while(count!=position-1){
+    	Temp=Temp->Next;
+    	count++;
+	}
+	Node* NewNode=new Node(newValue);
+	Node* ThirdNode=Temp->Next;
+	NewNode->Next=ThirdNode;
+	Temp->Next=NewNode;//temp to newnode linking
+	cout<<"After Insertion "<<endl;
+    Temp = Head;
+    cout << "Linked List: ";
+    while(Temp != NULL) {
+        cout<<Temp->Data<<" ";
+        Temp = Temp->Next;
+    }
+    return 0;
+}

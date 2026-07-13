@@ -1,0 +1,16 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+int main() {
+
+   int R;
+   cin >>R;
+   if(R<=4) {
+       cout <<"yes";
+   }
+   else {
+       cout <<"no";
+   }
+    return 0;
+}

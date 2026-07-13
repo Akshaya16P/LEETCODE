@@ -1,0 +1,23 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+void solution(int t){
+    
+    //Check nd print ans using if statements
+    if(t>=12){
+        std::cout << "Yes" << std::endl;
+    }
+    else{
+        std::cout << "No" << std::endl;
+    }
+}
+
+int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    int t;
+    std::cin >> t;
+    solution(t);
+    return 0;
+}

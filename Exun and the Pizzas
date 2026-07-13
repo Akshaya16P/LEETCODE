@@ -1,0 +1,12 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int n,k,r;
+	cin>>n>>k>>r;
+	int p=n-k;
+	int cost=p*r;
+	cout<<cost;
+	
+}

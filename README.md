@@ -1,0 +1,602 @@
+A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Akshaya16P/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Akshaya16P/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Akshaya16P/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0900-reordered-power-of-2](https://github.com/Akshaya16P/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Akshaya16P/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/1044-find-common-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Akshaya16P/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshaya16P/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/Akshaya16P/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [1980-find-unique-binary-string](https://github.com/Akshaya16P/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [2169-simple-bank-system](https://github.com/Akshaya16P/LEETCODE/tree/master/2169-simple-bank-system) |
+| [2402-meeting-rooms-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/2402-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Akshaya16P/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaya16P/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/Akshaya16P/LEETCODE/tree/master/3606-coupon-code-validator) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
+| [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Akshaya16P/LEETCODE/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Akshaya16P/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Akshaya16P/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Akshaya16P/LEETCODE/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Akshaya16P/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Akshaya16P/LEETCODE/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/Akshaya16P/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0168-excel-sheet-column-title](https://github.com/Akshaya16P/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Akshaya16P/LEETCODE/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Akshaya16P/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0840-magic-squares-in-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/0840-magic-squares-in-grid) |
+| [0900-reordered-power-of-2](https://github.com/Akshaya16P/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Akshaya16P/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Akshaya16P/LEETCODE/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1390-four-divisors](https://github.com/Akshaya16P/LEETCODE/tree/master/1390-four-divisors) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Akshaya16P/LEETCODE/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/Akshaya16P/LEETCODE/tree/master/1622-fancy-sequence) |
+| [1925-count-square-sum-triples](https://github.com/Akshaya16P/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshaya16P/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Akshaya16P/LEETCODE/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshaya16P/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
+| [3433-count-mentions-per-user](https://github.com/Akshaya16P/LEETCODE/tree/master/3433-count-mentions-per-user) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaya16P/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Akshaya16P/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaya16P/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akshaya16P/LEETCODE/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Akshaya16P/LEETCODE/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0900-reordered-power-of-2](https://github.com/Akshaya16P/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [1200-minimum-absolute-difference](https://github.com/Akshaya16P/LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Akshaya16P/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akshaya16P/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2054-two-best-non-overlapping-events](https://github.com/Akshaya16P/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
+| [2402-meeting-rooms-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/2402-meeting-rooms-iii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Akshaya16P/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
+| [3433-count-mentions-per-user](https://github.com/Akshaya16P/LEETCODE/tree/master/3433-count-mentions-per-user) |
+| [3606-coupon-code-validator](https://github.com/Akshaya16P/LEETCODE/tree/master/3606-coupon-code-validator) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Akshaya16P/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Akshaya16P/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Akshaya16P/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Akshaya16P/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3713-longest-balanced-substring-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Akshaya16P/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/Akshaya16P/LEETCODE/tree/master/1291-sequential-digits) |
+| [1925-count-square-sum-triples](https://github.com/Akshaya16P/LEETCODE/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Akshaya16P/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Akshaya16P/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/Akshaya16P/LEETCODE/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Akshaya16P/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Akshaya16P/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Akshaya16P/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Akshaya16P/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Akshaya16P/LEETCODE/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/Akshaya16P/LEETCODE/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0474-ones-and-zeroes](https://github.com/Akshaya16P/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/Akshaya16P/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akshaya16P/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0756-pyramid-transition-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Akshaya16P/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1044-find-common-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/1044-find-common-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Akshaya16P/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshaya16P/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Akshaya16P/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshaya16P/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Akshaya16P/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Akshaya16P/LEETCODE/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1980-find-unique-binary-string](https://github.com/Akshaya16P/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Akshaya16P/LEETCODE/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshaya16P/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Akshaya16P/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Akshaya16P/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3606-coupon-code-validator](https://github.com/Akshaya16P/LEETCODE/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshaya16P/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akshaya16P/LEETCODE/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akshaya16P/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Akshaya16P/LEETCODE/tree/master/0027-remove-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0696-count-binary-substrings](https://github.com/Akshaya16P/LEETCODE/tree/master/0696-count-binary-substrings) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Akshaya16P/LEETCODE/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Akshaya16P/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Akshaya16P/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Akshaya16P/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Akshaya16P/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0120-triangle) |
+| [0474-ones-and-zeroes](https://github.com/Akshaya16P/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akshaya16P/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshaya16P/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Akshaya16P/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2054-two-best-non-overlapping-events](https://github.com/Akshaya16P/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshaya16P/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Akshaya16P/LEETCODE/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Akshaya16P/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3640-trionic-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3640-trionic-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Akshaya16P/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Akshaya16P/LEETCODE/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Akshaya16P/LEETCODE/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Akshaya16P/LEETCODE/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Akshaya16P/LEETCODE/tree/master/0693-binary-number-with-alternating-bits) |
+| [0756-pyramid-transition-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
+| [0868-binary-gap](https://github.com/Akshaya16P/LEETCODE/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Akshaya16P/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshaya16P/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Akshaya16P/LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/Akshaya16P/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Akshaya16P/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0342-power-of-four](https://github.com/Akshaya16P/LEETCODE/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Akshaya16P/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Akshaya16P/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/Akshaya16P/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/Akshaya16P/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Akshaya16P/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Akshaya16P/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/Akshaya16P/LEETCODE/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/Akshaya16P/LEETCODE/tree/master/0610-triangle-judgement) |
+| [1415-students-and-examinations](https://github.com/Akshaya16P/LEETCODE/tree/master/1415-students-and-examinations) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Akshaya16P/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshaya16P/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Akshaya16P/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Akshaya16P/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshaya16P/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Akshaya16P/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Akshaya16P/LEETCODE/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
+| [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Akshaya16P/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshaya16P/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Akshaya16P/LEETCODE/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Akshaya16P/LEETCODE/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/Akshaya16P/LEETCODE/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Akshaya16P/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshaya16P/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Akshaya16P/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Akshaya16P/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Akshaya16P/LEETCODE/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Akshaya16P/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Akshaya16P/LEETCODE/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Akshaya16P/LEETCODE/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0120-triangle) |
+| [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0474-ones-and-zeroes](https://github.com/Akshaya16P/LEETCODE/tree/master/0474-ones-and-zeroes) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Akshaya16P/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/0840-magic-squares-in-grid) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Akshaya16P/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Akshaya16P/LEETCODE/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1044-find-common-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/1044-find-common-characters) |
+| [1200-minimum-absolute-difference](https://github.com/Akshaya16P/LEETCODE/tree/master/1200-minimum-absolute-difference) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Akshaya16P/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Akshaya16P/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1390-four-divisors](https://github.com/Akshaya16P/LEETCODE/tree/master/1390-four-divisors) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1590-make-sum-divisible-by-p](https://github.com/Akshaya16P/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Akshaya16P/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/Akshaya16P/LEETCODE/tree/master/1980-find-unique-binary-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akshaya16P/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2054-two-best-non-overlapping-events](https://github.com/Akshaya16P/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Akshaya16P/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2169-simple-bank-system](https://github.com/Akshaya16P/LEETCODE/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshaya16P/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/2402-meeting-rooms-iii) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Akshaya16P/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Akshaya16P/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3433-count-mentions-per-user](https://github.com/Akshaya16P/LEETCODE/tree/master/3433-count-mentions-per-user) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Akshaya16P/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Akshaya16P/LEETCODE/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Akshaya16P/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Akshaya16P/LEETCODE/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/Akshaya16P/LEETCODE/tree/master/3606-coupon-code-validator) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Akshaya16P/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
+| [3637-trionic-array-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3640-trionic-array-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Akshaya16P/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Akshaya16P/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Akshaya16P/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Akshaya16P/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshaya16P/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Akshaya16P/LEETCODE/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Akshaya16P/LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Akshaya16P/LEETCODE/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0792-binary-search](https://github.com/Akshaya16P/LEETCODE/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2054-two-best-non-overlapping-events](https://github.com/Akshaya16P/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Akshaya16P/LEETCODE/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Akshaya16P/LEETCODE/tree/master/1622-fancy-sequence) |
+| [2169-simple-bank-system](https://github.com/Akshaya16P/LEETCODE/tree/master/2169-simple-bank-system) |
+| [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3827-implement-router](https://github.com/Akshaya16P/LEETCODE/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Akshaya16P/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Akshaya16P/LEETCODE/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0840-magic-squares-in-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/0840-magic-squares-in-grid) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/1975-maximum-matrix-sum) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Akshaya16P/LEETCODE/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/Akshaya16P/LEETCODE/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Akshaya16P/LEETCODE/tree/master/0067-add-binary) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Akshaya16P/LEETCODE/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2169-simple-bank-system](https://github.com/Akshaya16P/LEETCODE/tree/master/2169-simple-bank-system) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/2402-meeting-rooms-iii) |
+| [3433-count-mentions-per-user](https://github.com/Akshaya16P/LEETCODE/tree/master/3433-count-mentions-per-user) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Akshaya16P/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Akshaya16P/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Akshaya16P/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0047-permutations-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0401-binary-watch](https://github.com/Akshaya16P/LEETCODE/tree/master/0401-binary-watch) |
+| [0756-pyramid-transition-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
+| [1980-find-unique-binary-string](https://github.com/Akshaya16P/LEETCODE/tree/master/1980-find-unique-binary-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Akshaya16P/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Akshaya16P/LEETCODE/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Akshaya16P/LEETCODE/tree/master/3634-minimum-removals-to-balance-array) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Akshaya16P/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/Akshaya16P/LEETCODE/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Akshaya16P/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1975-maximum-matrix-sum](https://github.com/Akshaya16P/LEETCODE/tree/master/1975-maximum-matrix-sum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Akshaya16P/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshaya16P/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [2054-two-best-non-overlapping-events](https://github.com/Akshaya16P/LEETCODE/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/2402-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshaya16P/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
+## Prefix Sum
+|  |
+| ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/Akshaya16P/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Akshaya16P/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Akshaya16P/LEETCODE/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3714-longest-balanced-substring-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3714-longest-balanced-substring-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Akshaya16P/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Akshaya16P/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Akshaya16P/LEETCODE/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshaya16P/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Akshaya16P/LEETCODE/tree/master/0053-maximum-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Akshaya16P/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Akshaya16P/LEETCODE/tree/master/0096-unique-binary-search-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Akshaya16P/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+## Union Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Akshaya16P/LEETCODE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
+| [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [2092-find-all-people-with-secret](https://github.com/Akshaya16P/LEETCODE/tree/master/2092-find-all-people-with-secret) |
+| [3863-power-grid-maintenance](https://github.com/Akshaya16P/LEETCODE/tree/master/3863-power-grid-maintenance) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Akshaya16P/LEETCODE/tree/master/1266-minimum-time-visiting-all-points) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3625-count-number-of-trapezoids-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Akshaya16P/LEETCODE/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshaya16P/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Akshaya16P/LEETCODE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Akshaya16P/LEETCODE/tree/master/1622-fancy-sequence) |
+| [3719-longest-balanced-subarray-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3719-longest-balanced-subarray-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshaya16P/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshaya16P/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+<!---LeetCode Topics End-->

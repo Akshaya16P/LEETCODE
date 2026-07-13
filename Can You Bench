@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int X;
+    cin >> X;
+
+    // Weight in 3rd set = X + 20
+    cout << X + 20 << endl;
+
+    return 0;
+}

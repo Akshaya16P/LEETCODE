@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int X, H;
+    cin >> X >> H;
+    
+    int hoursPlayed = (X - 4) * 24 + H;
+    cout << hoursPlayed << endl;
+    
+    return 0;
+}
