@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Akshaya16P/LEETCODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshaya16P/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Akshaya16P/LEETCODE/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaya16P/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Akshaya16P/LEETCODE/tree/master/0392-is-subsequence) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Akshaya16P/LEETCODE/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0120-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaya16P/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Akshaya16P/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Akshaya16P/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaya16P/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Akshaya16P/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Akshaya16P/LEETCODE/tree/master/0278-first-bad-version) |
