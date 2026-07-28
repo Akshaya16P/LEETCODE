@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Akshaya16P/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Akshaya16P/LEETCODE/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3110-score-of-a-string](https://github.com/Akshaya16P/LEETCODE/tree/master/3110-score-of-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/Akshaya16P/LEETCODE/tree/master/3606-coupon-code-validator) |
