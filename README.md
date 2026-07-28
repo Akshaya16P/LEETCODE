@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Akshaya16P/LEETCODE/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Akshaya16P/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Akshaya16P/LEETCODE/tree/master/0171-excel-sheet-column-number) |
+| [0392-is-subsequence](https://github.com/Akshaya16P/LEETCODE/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Akshaya16P/LEETCODE/tree/master/0412-fizz-buzz) |
 | [0474-ones-and-zeroes](https://github.com/Akshaya16P/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Akshaya16P/LEETCODE/tree/master/0696-count-binary-substrings) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Akshaya16P/LEETCODE/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Akshaya16P/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Akshaya16P/LEETCODE/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/Akshaya16P/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Akshaya16P/LEETCODE/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Akshaya16P/LEETCODE/tree/master/0120-triangle) |
+| [0392-is-subsequence](https://github.com/Akshaya16P/LEETCODE/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Akshaya16P/LEETCODE/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Akshaya16P/LEETCODE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/0960-delete-columns-to-make-sorted-iii) |
