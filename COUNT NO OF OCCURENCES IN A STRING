@@ -1,0 +1,30 @@
+import java.util.*;
+
+public class hire2 {
+
+    static int countChar(String s, char ch) {
+        int count = 0;
+
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == ch) {
+                count++;
+            }
+        }
+
+        return count;
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        String s = sc.nextLine();
+
+        for (int i = 0; i < s.length(); i++) {
+
+            // First occurrence matrame process chestham
+            if (s.indexOf(s.charAt(i)) == i) {
+                System.out.print(countChar(s, s.charAt(i)));
+            }
+        }
+    }
+}
