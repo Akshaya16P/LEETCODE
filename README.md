@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Akshaya16P/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1386-cinema-seat-allocation](https://github.com/Akshaya16P/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshaya16P/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/Akshaya16P/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/0756-pyramid-transition-matrix) |
 | [0868-binary-gap](https://github.com/Akshaya16P/LEETCODE/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Akshaya16P/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Akshaya16P/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Akshaya16P/LEETCODE/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Akshaya16P/LEETCODE/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Akshaya16P/LEETCODE/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Akshaya16P/LEETCODE/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/Akshaya16P/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Akshaya16P/LEETCODE/tree/master/1390-four-divisors) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Akshaya16P/LEETCODE/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Akshaya16P/LEETCODE/tree/master/1590-make-sum-divisible-by-p) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Akshaya16P/LEETCODE/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1382-balance-a-binary-search-tree](https://github.com/Akshaya16P/LEETCODE/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Akshaya16P/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1612-avoid-flood-in-the-city](https://github.com/Akshaya16P/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Akshaya16P/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Akshaya16P/LEETCODE/tree/master/1700-minimum-time-to-make-rope-colorful) |
