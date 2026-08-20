@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Akshaya16P/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Akshaya16P/LEETCODE/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akshaya16P/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Akshaya16P/LEETCODE/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Akshaya16P/LEETCODE/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/Akshaya16P/LEETCODE/tree/master/2402-meeting-rooms-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3433-count-mentions-per-user](https://github.com/Akshaya16P/LEETCODE/tree/master/3433-count-mentions-per-user) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Akshaya16P/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
