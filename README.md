@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akshaya16P/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Akshaya16P/LEETCODE/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Akshaya16P/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Akshaya16P/LEETCODE/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akshaya16P/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Akshaya16P/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Akshaya16P/LEETCODE/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Akshaya16P/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Akshaya16P/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Akshaya16P/LEETCODE/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akshaya16P/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Akshaya16P/LEETCODE/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Database
